@@ -23,6 +23,8 @@ conda activate Vid2EVE
 pip install -r vid2EVE/requirements.txt
 ```
 
+
+Run on Terminal with activated Conda Env.
 ```base
 python3 __init__.py
 ```
