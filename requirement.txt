@@ -1,1 +1,5 @@
-
+moviepy
+datatable
+tqdm
+opencv-python
+pillow
