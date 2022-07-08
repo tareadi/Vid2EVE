@@ -31,3 +31,6 @@ python3 __init__.py
 
 ## Result
 This will generate frames `vid2EVE/frames` and events in text format as "events.text" in source file.
+
+<img width="404" alt="Screenshot 2022-07-08 at 4 33 38 PM" src="https://user-images.githubusercontent.com/77872321/177980857-280095fa-3059-4a1c-b059-24e83c7d11c6.png">
+
