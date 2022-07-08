@@ -14,5 +14,11 @@ clone github repo using following command
 git clone https://github.com/tareadi/Vid2EVE.git
 ```
 
-make sure to install the following
+install 
     * [Anaconda Python 3.9 or above](https://www.anaconda.com/products/individual)
+
+```bash
+conda create --name vid2EVE
+conda activate Vid2EVE
+pip install -r vid2EVE/requirements.txt
+```
