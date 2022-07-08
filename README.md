@@ -28,3 +28,6 @@ Run on Terminal with activated Conda Env.
 ```base
 python3 __init__.py
 ```
+
+## Result
+This will generate frames `vid2EVE/frames` and events in text format as "events.text" in source file.
