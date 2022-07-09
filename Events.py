@@ -1,10 +1,9 @@
 from math import log
 import numpy as np
-from tqdm import tqdm , trange
+from tqdm import trange
 import cv2
 from PIL import Image
 import datatable as dtable
-from tqdm.notebook import tqdm
 import matplotlib.pyplot as plt
 from numpy import asarray
 import moviepy.editor as mpy
