@@ -18,7 +18,7 @@ install
     * [Anaconda Python 3.9 or above](https://www.anaconda.com/products/individual)
 
 ```bash
-conda create --name vid2EVE
+conda create --name Vid2EVE
 conda activate Vid2EVE
 pip install -r vid2EVE/requirements.txt
 ```
