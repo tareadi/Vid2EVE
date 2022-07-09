@@ -1,13 +1,6 @@
 from math import log
 import numpy as np
 from tqdm import trange
-import cv2
-from PIL import Image
-import datatable as dtable
-import matplotlib.pyplot as plt
-from numpy import asarray
-import moviepy.editor as mpy
-import os
 
 
 
@@ -15,7 +8,6 @@ import os
 def save_event(diff_brightness, threhold, n_max, i, j, time_gap, p):
 
     mod_diff = int(diff_brightness / threhold)
-    evenum = None
     if mod_diff > n_max:
         evenum = n_max
     else:
